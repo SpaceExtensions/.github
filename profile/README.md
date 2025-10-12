@@ -12,3 +12,4 @@ SpaceExtensions - это набор различных инструментов,
 ![](https://img.shields.io/badge/Code-C%23-informational?style=flat-square&logo=c-sharp&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Code-.netcore-informational?style=flat-square&logo=dotnet&logoColor=white&color=5194f0)
 ![Static Badge](https://img.shields.io/badge/creatio-7.18-red)
+![Static Badge](https://img.shields.io/badge/bpmsoft-1.7-red)
